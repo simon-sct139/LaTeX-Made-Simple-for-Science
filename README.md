@@ -1,4 +1,4 @@
-# LaTeX-Made-Simple-for-Science
+# LaTeX-Made-Simple-for-Science-Students
 A beginner-friendly LaTeX guide for science students who need to write professional reports, lab assignments, and basic academic papers without the complexity.
 
 
