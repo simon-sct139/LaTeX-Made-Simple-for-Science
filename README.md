@@ -23,7 +23,7 @@ This guide covers:
 
 **Simon Schmit**  
 Physics Student  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/simon-sct139)
 
 ## 📜 License
 
