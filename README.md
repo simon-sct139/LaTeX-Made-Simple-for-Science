@@ -19,6 +19,14 @@ This guide covers:
 - Professional tips for academic documents
 
 
+## 📚 Main Chapters Overview
+
+Here is a quick overview of the most relevant chapters covered in the guide:
+- Structure of a Document
+- Writing Mathematics Using LaTeX
+- Including Plots and Graphics
+
+
 ## ✍️ Author
 
 **Simon Schmit**  
